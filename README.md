@@ -4,22 +4,22 @@
 
 ## Creating New VLANS
 ~~~
-`enable`
+enable
 ~~~
 ~~~
-`config terminal`
+config terminal
 ~~~
 ~~~
-`vlan 10`
+vlan 10
 ~~~
 ~~~
-`name Voice`
+name Voice
 ~~~
 ~~~
-`vlan 20`
+vlan 20
 ~~~
 ~~~
-`name Sales`
+name Sales
 ~~~
 ## Now Setting Up the ports for each VLAN
 For a single port in `switch(config`, select an interface to which the device is connected
@@ -46,5 +46,5 @@ switchport access vlan 20
 Exit the VLAN config by `Ctrl + Z` 
 To show the current VLANs
 ~~~
-`show VLAN`
+show VLAN
 ~~~
