@@ -22,7 +22,7 @@ vlan 20
 name Sales
 ~~~
 ## Now Setting Up the ports for each VLAN
-For a single port in `switch(config`, select an interface to which the device is connected
+For a single port in `switch#(config)`, select an interface to which the device is connected
 ~~~
 interface fastEthernet 0/1
 ~~~
