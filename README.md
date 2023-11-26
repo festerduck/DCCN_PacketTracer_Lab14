@@ -1,6 +1,7 @@
 # DCCN_PacketTracer_Lab14
 ## Topology
-![image](https://github.com/festerduck/DCCN_PacketTracer_Lab14/assets/117522051/f62c0f43-ae29-4222-a1e3-c6978de55f39)
+![image](https://github.com/festerduck/DCCN_PacketTracer_Lab14/assets/117522051/45260bb2-c253-4b9d-ba99-c26649973c78)
+
 ## Setting VLANS
 ~~~
 `enable`
