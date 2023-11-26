@@ -32,7 +32,7 @@ switchport mode access
 ~~~
 switchport access vlan 10
 ~~~
-For a multiple ports in `switch(config`, select ranges of interfaces to which the devices are connected
+For a multiple ports in `switch#(config)`, select ranges of interfaces to which the devices are connected
 ~~~
 interface range fastEthernet 0/2 – 6
 ~~~
