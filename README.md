@@ -24,7 +24,7 @@ name Sales
 ## Setting Up the ports for each VLAN
 For a single port in `switch#(config)`, select an interface to which the device is connected
 ~~~
-interface fastEthernet 0/1
+interface fastEthernet 0/7
 ~~~
 ~~~
 switchport mode access
