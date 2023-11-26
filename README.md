@@ -8,8 +8,14 @@
 ~~~
 `config terminal`
 ~~~
+~~~
 `vlan 10`
+~~~
+~~~
 `name Voice`
+~~~
 Exit the VLAN config by `Ctrl + Z` 
 To show the current VLANs
+~~~
 `show VLAN`
+~~~
